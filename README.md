@@ -3,6 +3,7 @@
 # Screenshot
 
 ![alt text](https://github.com/phyolinwai/rnbottomsheet/blob/main/screenshots/1.png?raw=true {width=40px height=400px})
+<img src="https://github.com/phyolinwai/rnbottomsheet/blob/main/screenshots/1.png?raw=true" width="200" height="350">
 ![alt text](https://github.com/phyolinwai/rnbottomsheet/blob/main/screenshots/2.png?raw=true)
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
