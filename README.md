@@ -2,8 +2,7 @@
 
 # Screenshot
 
-![alt text](https://github.com/phyolinwai/rnbottomsheet/screenshots/1.jpg?raw=true)
-![alt text](https://github.com/phyolinwai/rnbottomsheet/screenshots/2.jpg?raw=true)
+<img src="https://github.com/phyolinwai/rnbottomsheet/blob/main/screenshots/1.png?raw=true" width="300" height="580"> <img src="https://github.com/phyolinwai/rnbottomsheet/blob/main/screenshots/2.png?raw=true" width="300" height="580">
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
